@@ -96,6 +96,7 @@ namespace PR1_Comprobacion_edad
             {
                 txtEdad.Text = "";
                 error = true;
+                //comentarios
             }
             else
             {
